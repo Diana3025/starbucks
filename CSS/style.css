@@ -1,0 +1,13 @@
+body{
+    background: color #d50111;
+}
+.nav_links{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    display: none;
+}
+.show{
+    display: block;
+}
